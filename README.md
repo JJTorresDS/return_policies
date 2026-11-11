@@ -10,6 +10,7 @@ Process Overview
 - Customer contacts the business requesting a return.
 - Customer provides the order number, reason for return and relevant supporting information.
 2. Eligibility Check
+- If its premium customer, we always accept returns
 - Customer service checks whether the purchase meets the return policy conditions.
 - Verify the purchase date, return window, product condition and proof of purchase.
 - Identify any exclusions (e.g. final-sale or non-returnable items).
